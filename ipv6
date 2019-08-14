@@ -1,0 +1,26 @@
+sys-platform：AMD64，Windows-10-10.0.17134 
+os-system：Windows 
+os-version：10.0.17134 
+os-release：10 
+os-detail：Version：10-0; 构建：17134; 平台：2; CSD :; 服务包：0-0; 套房：256; ProductType：0 
+体系结构：32位，WindowsPE 
+浏览器：Mozilla / 5.0（Windows NT 10.0; WOW64）AppleWebKit / 537.36（KHTML，如Gecko）Chrome / 72.0.3626.81 Safari / 537.36 
+xxnet-version：3.13.1 
+python-version：2.7。 13 
+openssl-version：16.0.0 TLSv1_2 h2：alpn 
+lan-proxy：禁用
+use-ipv6：force_ipv6 
+gws-ip-num：total：100 ipv4：0 ipv6：100 
+ipv4-status：OK 
+ipv6-status：Fail 
+connected-link ：new：0 
+worker：h1：0 h2：0 
+scan-ip-thread-num：1
+ip-quality：498 
+is-idle：1 
+proxy_state：OK 
+ca_state：OK 
+Appid_Working：true 
+Appids_Out_Of_Quota：false 
+Appids_Not_Exist：false 
+Using_Public_Appid：false
